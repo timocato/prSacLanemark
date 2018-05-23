@@ -30,7 +30,7 @@ If you enjoy the code, please cite these papers:
 
 ### To use: 
 You will need Matlab, image processing toolbox, autonomous driving toolbox. 
-The curve fitting module is borrowed from https://www.mathworks.com/matlabcentral/fileexchange/13812-splinefit
+[INCLUDED]The curve fitting module is borrowed from https://www.mathworks.com/matlabcentral/fileexchange/13812-splinefit
 
 ### To run the code: 
 1. download and unzip Kitti road dataset from http://www.cvlibs.net/datasets/kitti/raw_data.php?type=road, and use the synced+rectified data. 
